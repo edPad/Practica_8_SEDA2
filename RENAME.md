@@ -10,6 +10,6 @@ La informacion de la lista es la siguiente:
 *Nombre
 *Total de días trabajados
 
-Ademas estará odenada por el número de la seguridad social. Si el tranajador no está incluido en la lista debe añadirse a la misma de tal manera que siga ordenada.
+Ademas estará odenada por el número de la seguridad social. Si el trabajador no está incluido en la lista debe añadirse a la misma de tal manera que siga ordenada.
 
 incluir el manejo de archivos para respaldar la información.
